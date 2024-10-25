@@ -1,0 +1,15 @@
+D:\Studying\programming\ICPC_GUC\Pupils\Sheet1\AdditionalSheet\obj\Debug\net8.0\AdditionalSheet.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studying\programming\ICPC_GUC\Pupils\Sheet1\AdditionalSheet\obj\Debug\net8.0\AdditionalSheet.AssemblyInfoInputs.cache
+D:\Studying\programming\ICPC_GUC\Pupils\Sheet1\AdditionalSheet\obj\Debug\net8.0\AdditionalSheet.AssemblyInfo.cs
+D:\Studying\programming\ICPC_GUC\Pupils\Sheet1\AdditionalSheet\obj\Debug\net8.0\AdditionalSheet.csproj.CoreCompileInputs.cache
+D:\Studying\programming\ICPC_GUC\Pupils\Sheet1\AdditionalSheet\obj\Debug\net8.0\AdditionalSheet.sourcelink.json
+D:\Studying\programming\ICPC_GUC\Pupils\Sheet1\AdditionalSheet\bin\Debug\net8.0\AdditionalSheet.exe
+D:\Studying\programming\ICPC_GUC\Pupils\Sheet1\AdditionalSheet\bin\Debug\net8.0\AdditionalSheet.deps.json
+D:\Studying\programming\ICPC_GUC\Pupils\Sheet1\AdditionalSheet\bin\Debug\net8.0\AdditionalSheet.runtimeconfig.json
+D:\Studying\programming\ICPC_GUC\Pupils\Sheet1\AdditionalSheet\bin\Debug\net8.0\AdditionalSheet.dll
+D:\Studying\programming\ICPC_GUC\Pupils\Sheet1\AdditionalSheet\bin\Debug\net8.0\AdditionalSheet.pdb
+D:\Studying\programming\ICPC_GUC\Pupils\Sheet1\AdditionalSheet\obj\Debug\net8.0\AdditionalSheet.dll
+D:\Studying\programming\ICPC_GUC\Pupils\Sheet1\AdditionalSheet\obj\Debug\net8.0\refint\AdditionalSheet.dll
+D:\Studying\programming\ICPC_GUC\Pupils\Sheet1\AdditionalSheet\obj\Debug\net8.0\AdditionalSheet.pdb
+D:\Studying\programming\ICPC_GUC\Pupils\Sheet1\AdditionalSheet\obj\Debug\net8.0\AdditionalSheet.genruntimeconfig.cache
+D:\Studying\programming\ICPC_GUC\Pupils\Sheet1\AdditionalSheet\obj\Debug\net8.0\ref\AdditionalSheet.dll
