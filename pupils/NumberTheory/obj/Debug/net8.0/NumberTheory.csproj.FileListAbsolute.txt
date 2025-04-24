@@ -1,0 +1,15 @@
+/home/kareem/studying/acm_guc/pupils/NumberTheory/bin/Debug/net8.0/NumberTheory
+/home/kareem/studying/acm_guc/pupils/NumberTheory/bin/Debug/net8.0/NumberTheory.deps.json
+/home/kareem/studying/acm_guc/pupils/NumberTheory/bin/Debug/net8.0/NumberTheory.runtimeconfig.json
+/home/kareem/studying/acm_guc/pupils/NumberTheory/bin/Debug/net8.0/NumberTheory.dll
+/home/kareem/studying/acm_guc/pupils/NumberTheory/bin/Debug/net8.0/NumberTheory.pdb
+/home/kareem/studying/acm_guc/pupils/NumberTheory/obj/Debug/net8.0/NumberTheory.GeneratedMSBuildEditorConfig.editorconfig
+/home/kareem/studying/acm_guc/pupils/NumberTheory/obj/Debug/net8.0/NumberTheory.AssemblyInfoInputs.cache
+/home/kareem/studying/acm_guc/pupils/NumberTheory/obj/Debug/net8.0/NumberTheory.AssemblyInfo.cs
+/home/kareem/studying/acm_guc/pupils/NumberTheory/obj/Debug/net8.0/NumberTheory.csproj.CoreCompileInputs.cache
+/home/kareem/studying/acm_guc/pupils/NumberTheory/obj/Debug/net8.0/NumberTheory.sourcelink.json
+/home/kareem/studying/acm_guc/pupils/NumberTheory/obj/Debug/net8.0/NumberTheory.dll
+/home/kareem/studying/acm_guc/pupils/NumberTheory/obj/Debug/net8.0/refint/NumberTheory.dll
+/home/kareem/studying/acm_guc/pupils/NumberTheory/obj/Debug/net8.0/NumberTheory.pdb
+/home/kareem/studying/acm_guc/pupils/NumberTheory/obj/Debug/net8.0/NumberTheory.genruntimeconfig.cache
+/home/kareem/studying/acm_guc/pupils/NumberTheory/obj/Debug/net8.0/ref/NumberTheory.dll
